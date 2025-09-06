@@ -1,12 +1,12 @@
 ```markdown
-# 🏠 Housing Dataset Regression Model (ML)
+ 🏠 Housing Dataset Regression Model (ML)
 
 An **end-to-end machine learning project** for predicting **house prices** using a **synthetic housing dataset**.  
 The pipeline demonstrates **data preprocessing, feature engineering, model training, hyperparameter tuning, and advanced visualizations**.
 
 ---
 
-## 🚀 Features
+ 🚀 Features
 
 - **Synthetic Data Generation** – Creates a realistic housing dataset with features like square footage, bedrooms, bathrooms, grade, zipcode, etc.
 - **Advanced Preprocessing**
@@ -30,6 +30,7 @@ The pipeline demonstrates **data preprocessing, feature engineering, model train
   - Error distribution across models
 
 ---
+```
 
 ## 📂 Project Structure
 
