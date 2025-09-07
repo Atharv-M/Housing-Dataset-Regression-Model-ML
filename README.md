@@ -1,4 +1,3 @@
-```markdown
  🏠 Housing Dataset Regression Model (ML)
 
 An **end-to-end machine learning project** for predicting **house prices** using a **synthetic housing dataset**.  
@@ -29,19 +28,16 @@ The pipeline demonstrates **data preprocessing, feature engineering, model train
   - Price vs Square Footage scatterplot
   - Error distribution across models
 
----
-```
 
 ## 📂 Project Structure
 
 ```
-
 Housing-Dataset-Regression-Model-ML/
 │── app.py                # Main ML pipeline & execution script
 │── requirements.txt      # Dependencies
 │── README.md             # Project documentation
+```
 
-````
 
 ---
 
@@ -150,17 +146,3 @@ Easily extensible to **real business datasets** (e.g., real estate, finance, ret
 📧 Email: [mishra17atharv@gmail.com](mailto:mishra17atharv@gmail.com)
 🔗 GitHub: [Atharv-M](https://github.com/Atharv-M)
 🔗 LinkedIn: [Atharv Mishra](https://www.linkedin.com/in/atharv-mishra-ab6b60277/)
-
-```
-
-
-
-
-
-
-
-
-
-
-
-
